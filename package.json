@@ -23,7 +23,7 @@
         "@types/node": "^12.11.2",
         "express": "^4.17.1",
         "md5": "^2.2.1",
-        "node-sass": "^4.13.0",
+        "node-sass": "^4.13.1",
         "socket.io": "^2.3.0"
     },
     "devDependencies": {
